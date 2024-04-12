@@ -1,2 +1,2 @@
-def addition(c, d):
-  return c-d
+def division(e, f):
+  return e/f
